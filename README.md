@@ -6,7 +6,7 @@ This repository contains my solutions for [adventofcode.com/2022](https://advent
 
 I sloved `1` out of `24` problems!  
 
-![4%](https://progress-bar.dev/3?width=500)
+![4%](https://progress-bar.dev/4?width=500)
 
 ## About the project
 
