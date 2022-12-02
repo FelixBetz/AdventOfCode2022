@@ -4,9 +4,9 @@ This repository contains my solutions for [adventofcode.com/2022](https://advent
 
 ## My Progress
 
-I sloved `3` out of `50` ⭐!  
+I sloved `4` out of `50` ⭐!  
 
-![6](https://progress-bar.dev/6?width=500)
+![8](https://progress-bar.dev/8?width=500)
 
 ## About the project
 
@@ -18,10 +18,10 @@ You don't need a computer science background to participate - just a little prog
 
 If you'd like to support Advent of Code, you can do so indirectly by helping to [Share] it with others, or directly via PayPal or Coinbase.
 
---- General Tips ---
+### --- General Tips ---
 If you get stuck, try your solution against the examples given in the puzzle; you should get the same answers. If not, re-read the description. Did you misunderstand something? Is your program doing something you don't expect? After the examples work, if your answer still isn't correct, build some test cases for which you can verify the answer by hand and see if those work with your program. Make sure you have the entire puzzle input. If you're still stuck, maybe ask a friend for help, or come back to the puzzle later. You can also ask for hints in the subreddit.
 
---- Frequently Asked Questions ---
+### --- Frequently Asked Questions ---
 Is there an easy way to select entire code blocks? You should be able to triple-click code blocks to select them. You'll need JavaScript enabled. You can test it out by triple-clicking this sentence.
 
 How does authentication work? Advent of Code uses OAuth to confirm your identity through other services. When you log in, you only ever give your credentials to that service - never to Advent of Code. Then, the service you use tells the Advent of Code servers that you're really you. In general, this reveals no information about you beyond what is already public; here are examples from Reddit and GitHub. Advent of Code will remember your unique ID, names, URL, and image from the service you use to authenticate.
@@ -40,7 +40,7 @@ Did I find a bug with a puzzle? Once a puzzle has been out for even an hour, man
 
 Can I stream my solution? Please try to avoid giving away the solution while people are competing. If a puzzle's global daily leaderboard isn't full yet and you're likely to get points, please wait to stream/post your solution until after that leaderboard is full. If you are unlikely to get points or the daily leaderboard is already full for the puzzle you're working on, streaming is fine.
 
---- Credits ---
+### --- Credits ---
 Puzzles, Code, & Design: Eric Wastl
 
 Beta Testing:
@@ -54,7 +54,7 @@ Community Managers: Danielle Lucek and Aneurysm9
 
 Playing: You!
 
---- Legal ---
+### --- Legal ---
 Advent of Code is a registered trademark in the United States. The design elements, language, styles, and concept of Advent of Code are all the sole property of Advent of Code and may not be replicated or used by any other person or entity without express written consent of Advent of Code. Copyright 2015-2022 Advent of Code. All rights reserved.
 
 You may link to or reference puzzles from Advent of Code in discussions, classes, source code, printed material, etc., even in commercial contexts. Advent of Code does not claim ownership or copyright over your solution implementation.

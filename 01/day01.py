@@ -58,13 +58,13 @@ Find the Elf carrying the most Calories. How many total Calories is that Elf car
 
 def solve_day1():
     """solve day1"""
-    max_calories = 0
+    max_calories = []
     cnt_calories = 0
 
     with open("input.txt", encoding="utf-8") as input_file:
         for line in input_file:
             if line == "\n":
-                max_calories = max(cnt_calories, max_calories)
+                max_calories.append(cnt_calories)
                 cnt_calories = 0  # reset cnt calories
             else:
                 cnt_calories += int(line)
@@ -72,4 +72,8 @@ def solve_day1():
     return max_calories
 
 
-print("Elf carrying the most calories:", solve_day1())
+calories = solve_day1()
+calories.sort(reverse=True)
+
+print("Elf carrying the most calories:", calories[0])
+print("topy three Elfs carrying the most calories:", sum(calories[0:3]))
