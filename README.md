@@ -4,9 +4,9 @@ This repository contains my solutions for [adventofcode.com/2022](https://advent
 
 ## My Progress
 
-I sloved `6` out of `50` ⭐!  
+I sloved `8` out of `50` ⭐!  
 
-![11](https://progress-bar.dev/10?width=500)
+![16](https://progress-bar.dev/16?width=500)
 
 ## About the project
 
