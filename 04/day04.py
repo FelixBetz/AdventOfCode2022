@@ -1,6 +1,6 @@
 """
 --- Day 4: Camp Cleanup ---
-https://adventofcode.com/2022/day/3
+https://adventofcode.com/2022/day/4
 """
 
 
@@ -31,7 +31,7 @@ def is_overlap(elf1, elf2):
 
 
 def solve_day4_part1():
-    """solve day3"""
+    """solve day4 part1"""
     with open("input.txt", encoding="utf-8") as input_file:
         sum_fully_contains = 0
         for line in input_file:
@@ -44,7 +44,7 @@ def solve_day4_part1():
 
 
 def solve_day4_part2():
-    """solve day3"""
+    """solve day4 part2"""
     with open("input.txt", encoding="utf-8") as input_file:
         overlaps = 0
         for line in input_file:
